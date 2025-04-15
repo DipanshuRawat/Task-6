@@ -3,7 +3,7 @@
 A web-based sorting visualizer built using HTML, CSS, and JavaScript.  
 This tool helps users understand how different sorting algorithms work by visually representing the sorting process.
 
-🔗 **Live Site:** [Sorting Visualizer](https://dipanshurawat.github.io/Sorting-Algorithms/)
+🔗 **Live Site:** [Sorting Visualizer](https://dipanshurawat.github.io/Task-6/)
 
 ## 🧠 Algorithms Implemented
 
